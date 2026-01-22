@@ -1,0 +1,16 @@
+# Models (local artifacts)
+.models/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Node / Python / build artifacts (на будущее)
+node_modules/
+__pycache__/
+
+# Environment variables
+.env
